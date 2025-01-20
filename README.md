@@ -1,13 +1,5 @@
 # ReactJS Todo Project
 
-Step 1.
+<!-- TODO:  -->
 
-```
-npm install
-```
-
-Step 2.
-
-```
-npm run dev
-```
+Create a dummy list
