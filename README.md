@@ -1,5 +1,7 @@
 # ReactJS Todo Project
 
+Step 1.
+
 ```
 npm install
 ```
